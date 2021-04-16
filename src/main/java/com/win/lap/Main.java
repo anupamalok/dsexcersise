@@ -1,7 +1,6 @@
 package com.win.lap;
 
 import java.util.*;
-import java.io.*;
 
 class Main {
 
