@@ -1,4 +1,4 @@
-package com.win.lap;
+package com.win.spark;
 
 import java.util.Arrays;
 import org.apache.spark.SparkConf;
